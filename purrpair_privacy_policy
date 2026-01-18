@@ -1,0 +1,76 @@
+# Privacy Policy - PurrPair
+
+**Last Updated:** January 18, 2026
+
+## Introduction
+
+Welcome to PurrPair . This Privacy Policy explains how we handle your information when you use our mobile game application.
+
+## TL;DR
+
+**PurrPair does NOT collect, store, or share any personal data.** Period.
+
+## No Data Collection
+
+We want to be completely transparent: **PurrPair does not collect any personal information or user data.**
+
+Specifically, we do NOT collect:
+
+- Personal identifiers (name, email, phone number, address, etc.)
+- Account information
+- Location data
+- Device information
+- Usage analytics or behavioral data
+- Advertising identifiers (IDFA, GAID, etc.)
+- In-app purchase history
+- Any form of user tracking
+
+### What Stays on Your Device
+
+The only data stored by PurrPair is saved locally on your device:
+
+- **Game Settings** - Your preferences for music, sound effects, and vibration
+- **High Scores** - Your personal best scores and star ratings
+- **Game Progress** - Local save data for your gameplay progress
+
+This data is stored using your device's local storage (via `shared_preferences`) and **never leaves your device**. It is not transmitted to any servers or third parties.
+
+## No Third-Party Services
+
+PurrPair does NOT integrate with any third-party services that collect data, including but not limited to:
+
+- Analytics platforms (Google Analytics, Firebase Analytics, etc.)
+- Advertising networks (AdMob, Unity Ads, etc.)
+- Social media platforms (Facebook, Twitter, etc.)
+- Crash reporting services
+- User attribution services
+
+## No Internet Access Required
+
+PurrPair is designed to work completely offline. The app does not require an internet connection to function, and it does not make any network requests to external servers.
+
+## Permissions Used
+
+The only permission used by PurrPair is:
+
+- **Vibration** (optional) - For haptic feedback during gameplay. This can be disabled in the settings.
+
+
+## Children's Privacy
+
+PurrPair is suitable for users of all ages. Since we do not collect any personal information, we do not knowingly collect any data from children under the age of 13 (or any age).
+
+## Changes to This Privacy Policy
+
+Since we do not collect data, it is unlikely that this policy will require significant changes. However, if we ever update this policy, we will notify users by updating the date at the top of this document.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy or PurrPair, please contact us at:
+
+- **Email:** akinalpfdn@gmail.com
+- **Website:** www.akinalpfdn.com
+
+---
+
+**Summary:** PurrPair is a privacy-first game that respects your privacy. No data collection. No tracking. No ads. Just pure, wholesome cat-matching fun.
