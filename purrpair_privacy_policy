@@ -1,76 +1,58 @@
 # Privacy Policy - PurrPair
 
-**Last Updated:** January 18, 2026
+**Last Updated:** September 20, 2026
 
-## Introduction
+## Summary
 
-Welcome to PurrPair . This Privacy Policy explains how we handle your information when you use our mobile game application.
+PurrPair has no accounts and never asks for your name, e-mail or phone number. We collect anonymous usage statistics to improve the game, purchases are handled by Apple and Google, and leaderboards are optional. There are no ads and no advertising SDKs, and we never track you across other apps or websites.
 
-## TL;DR
+## What we collect
 
-**PurrPair does NOT collect, store, or share any personal data.** Period.
+To understand how the game is played we use **Google Analytics for Firebase**. It records:
 
-## No Data Collection
+- Gameplay events: rounds started and ended, score, duration, difficulty, level
+- Economy events: coins earned and spent, garden decorations placed, areas unlocked, daily gifts claimed, shop screens opened, completed purchases
+- Technical context: app version, device model, operating system, language, country and city derived from your IP address
 
-We want to be completely transparent: **PurrPair does not collect any personal information or user data.**
+These records are tied to a randomly generated installation identifier, not to you. We do not collect your name, e-mail, address, contacts, photos or precise location, and we do not use an advertising identifier (IDFA / GAID). Deleting the app invalidates the identifier; reinstalling creates a new one.
 
-Specifically, we do NOT collect:
+## What stays on your device
 
-- Personal identifiers (name, email, phone number, address, etc.)
-- Account information
-- Location data
-- Device information
-- Usage analytics or behavioral data
-- Advertising identifiers (IDFA, GAID, etc.)
-- In-app purchase history
-- Any form of user tracking
+Your settings, high scores, level and XP, coin balance, garden layout, collected cats and purchase entitlements are stored locally through your device's own storage. This save data is not uploaded to us.
 
-### What Stays on Your Device
+## Purchases
 
-The only data stored by PurrPair is saved locally on your device:
+In-app purchases are processed entirely by the App Store or Google Play. We never see your card details or billing address. The store tells the app which product was bought so the content can be delivered; the completed purchase is also counted in the anonymous statistics above.
 
-- **Game Settings** - Your preferences for music, sound effects, and vibration
-- **High Scores** - Your personal best scores and star ratings
-- **Game Progress** - Local save data for your gameplay progress
+## Leaderboards (optional)
 
-This data is stored using your device's local storage (via `shared_preferences`) and **never leaves your device**. It is not transmitted to any servers or third parties.
+If you open the leaderboard, the game uses Game Center (iOS) or Google Play Games (Android). Signing in is your choice; if you do, your score and level are submitted to that service under Apple's or Google's own privacy policies. Declining costs you nothing else in the game.
 
-## No Third-Party Services
+## Links and sharing
 
-PurrPair does NOT integrate with any third-party services that collect data, including but not limited to:
+Rating the game or sharing a score opens your store page or your device's own share sheet. What you do there is handled by that app or service, not by us.
 
-- Analytics platforms (Google Analytics, Firebase Analytics, etc.)
-- Advertising networks (AdMob, Unity Ads, etc.)
-- Social media platforms (Facebook, Twitter, etc.)
-- Crash reporting services
-- User attribution services
+## Who processes the data
 
-## No Internet Access Required
+Google processes the analytics data on our behalf ([Google Privacy Policy](https://policies.google.com/privacy)). Apple and Google process purchases and leaderboards as the providers of those platforms. We do not sell data, we do not share it with advertisers, and no data broker receives it.
 
-PurrPair is designed to work completely offline. The app does not require an internet connection to function, and it does not make any network requests to external servers.
+## Legal basis and retention
 
-## Permissions Used
+Where the GDPR applies, our legal basis is legitimate interest in improving the game. Analytics records are kept for the retention period configured in Firebase (up to 14 months) and are then deleted automatically.
 
-The only permission used by PurrPair is:
+## Children's privacy
 
-- **Vibration** (optional) - For haptic feedback during gameplay. This can be disabled in the settings.
+The game is suitable for all ages. We do not knowingly collect personal information from children, and the statistics we collect are not linked to an identity.
 
+## Your choices
 
-## Children's Privacy
+You can stop all analytics collection by deleting the app. For questions, corrections or a deletion request, write to the address below and state the approximate date and device you played on so we can locate the anonymous records.
 
-PurrPair is suitable for users of all ages. Since we do not collect any personal information, we do not knowingly collect any data from children under the age of 13 (or any age).
+## Changes to this policy
 
-## Changes to This Privacy Policy
+If the game changes what it collects, this document and its date will be updated before the new version is released.
 
-Since we do not collect data, it is unlikely that this policy will require significant changes. However, if we ever update this policy, we will notify users by updating the date at the top of this document.
+## Contact
 
-## Contact Us
-
-If you have any questions about this Privacy Policy or PurrPair, please contact us at:
-
-- **Email:** akinalpfdn@gmail.com
+- **E-mail:** akinalpfdn@gmail.com
 - **Website:** www.akinalpfdn.com
-
----
-
-**Summary:** PurrPair is a privacy-first game that respects your privacy. No data collection. No tracking. No ads. Just pure, wholesome cat-matching fun.

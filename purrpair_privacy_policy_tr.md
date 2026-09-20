@@ -1,74 +1,58 @@
-Gizlilik Politikası - PurrPair
-Son Güncelleme: 18 Ocak 2026
+# Gizlilik Politikası - PurrPair
 
-Giriş
-PurrPair'e hoş geldiniz. Bu Gizlilik Politikası, mobil oyun uygulamamızı kullandığınızda bilgilerinizin nasıl ele alındığını açıklar.
+**Son Güncelleme:** 20 Eylül 2026
 
-Özet (TL;DR)
-PurrPair herhangi bir kişisel veriyi TOPLAMAZ, SAKLAMAZ veya PAYLAŞMAZ. Nokta.
+## Özet
 
-Veri Toplanmaz
-Tamamen şeffaf olmak istiyoruz: PurrPair herhangi bir kişisel bilgi veya kullanıcı verisi toplamaz.
+PurrPair'de hesap yoktur; adınız, e-postanız veya telefon numaranız hiçbir zaman istenmez. Oyunu geliştirmek için anonim kullanım istatistikleri toplarız, satın almaları Apple ve Google yürütür, liderlik tablosu isteğe bağlıdır. Reklam ve reklam SDK'sı yoktur; sizi başka uygulama veya sitelerde takip etmeyiz.
 
-Özellikle, şunları TOPLAMIYORUZ:
+## Topladığımız veriler
 
-Kişisel tanımlayıcılar (isim, e-posta, telefon numarası, adres vb.)
+Oyunun nasıl oynandığını anlamak için **Google Analytics for Firebase** kullanıyoruz. Kaydedilenler:
 
-Hesap bilgileri
+- Oynanış olayları: başlayan ve biten turlar, skor, süre, zorluk, seviye
+- Ekonomi olayları: kazanılan ve harcanan coin, bahçeye yerleştirilen dekorlar, açılan alanlar, alınan günlük hediyeler, açılan mağaza ekranları, tamamlanan satın almalar
+- Teknik bağlam: uygulama sürümü, cihaz modeli, işletim sistemi, dil, IP adresinizden türetilen ülke ve şehir
 
-Konum verileri
+Bu kayıtlar size değil, rastgele oluşturulmuş bir kurulum kimliğine bağlıdır. Adınızı, e-postanızı, adresinizi, rehberinizi, fotoğraflarınızı veya kesin konumunuzu toplamayız; reklam kimliği (IDFA / GAID) kullanmayız. Uygulamayı silmek bu kimliği geçersiz kılar, yeniden kurulumda yenisi oluşur.
 
-Cihaz bilgileri
+## Cihazınızda kalanlar
 
-Kullanım analizleri veya davranışsal veriler
+Ayarlarınız, rekorlarınız, seviyeniz ve XP'niz, coin bakiyeniz, bahçe düzeniniz, topladığınız kediler ve satın alma haklarınız cihazınızın kendi deposunda saklanır. Bu kayıt bize gönderilmez.
 
-Reklam tanımlayıcıları (IDFA, GAID vb.)
+## Satın almalar
 
-Uygulama içi satın alma geçmişi
+Uygulama içi satın almaları tamamen App Store veya Google Play yürütür. Kart bilgilerinizi veya fatura adresinizi hiçbir zaman görmeyiz. Mağaza, içeriğin teslim edilebilmesi için uygulamaya hangi ürünün alındığını bildirir; tamamlanan satın alma yukarıdaki anonim istatistiklere de işlenir.
 
-Herhangi bir kullanıcı takip (tracking) yöntemi
+## Liderlik tablosu (isteğe bağlı)
 
-Cihazınızda Kalan Veriler
-PurrPair tarafından saklanan tek veri, yerel olarak cihazınıza kaydedilen verilerdir:
+Liderlik tablosunu açtığınızda oyun Game Center (iOS) veya Google Play Games (Android) kullanır. Giriş yapmak sizin tercihinizdir; yaparsanız skorunuz ve seviyeniz, Apple veya Google'ın kendi gizlilik politikaları kapsamında o hizmete gönderilir. Girmemeniz oyunda başka bir kayba yol açmaz.
 
-Oyun Ayarları - Müzik, ses efektleri ve titreşim tercihleriniz
+## Bağlantılar ve paylaşım
 
-Yüksek Skorlar - Kişisel en iyi skorlarınız ve yıldız derecelendirmeleriniz
+Oyunu puanlamak veya skor paylaşmak, mağaza sayfanızı ya da cihazınızın kendi paylaşım menüsünü açar. Orada yaptıklarınızı biz değil, ilgili uygulama veya hizmet yürütür.
 
-Oyun İlerlemesi - Oynanış ilerlemeniz için yerel kayıt verileri
+## Verileri kim işler
 
-Bu veriler cihazınızın yerel depolama alanı (shared_preferences) kullanılarak saklanır ve asla cihazınızdan dışarı çıkmaz. Herhangi bir sunucuya veya üçüncü tarafa iletilmez.
+Analitik verilerini bizim adımıza Google işler ([Google Gizlilik Politikası](https://policies.google.com/privacy)). Apple ve Google, satın alma ve liderlik tablosunu kendi platform sağlayıcıları olarak işler. Veri satmayız, reklamcılarla paylaşmayız, veri simsarlarına aktarmayız.
 
-Üçüncü Taraf Hizmetleri Yoktur
-PurrPair, aşağıdakiler dahil ancak bunlarla sınırlı olmamak üzere, veri toplayan hiçbir üçüncü taraf hizmetiyle entegre DEĞİLDİR:
+## Hukuki dayanak ve saklama
 
-Analitik platformları (Google Analytics, Firebase Analytics vb.)
+GDPR'ın uygulandığı yerlerde hukuki dayanağımız, oyunu geliştirmeye yönelik meşru menfaattir. Analitik kayıtları Firebase'de ayarlanan saklama süresi boyunca (en fazla 14 ay) tutulur, sonra otomatik silinir.
 
-Reklam ağları (AdMob, Unity Ads vb.)
+## Çocukların gizliliği
 
-Sosyal medya platformları (Facebook, Twitter vb.)
+Oyun her yaş için uygundur. Çocuklardan bilerek kişisel bilgi toplamayız; topladığımız istatistikler bir kimliğe bağlı değildir.
 
-Hata raporlama hizmetleri (Crash reporting)
+## Seçenekleriniz
 
-Kullanıcı ilişkilendirme (Attribution) hizmetleri
+Uygulamayı silerek tüm analitik toplamayı durdurabilirsiniz. Soru, düzeltme veya silme talebi için aşağıdaki adrese yazın; anonim kayıtları bulabilmemiz için oynadığınız yaklaşık tarihi ve cihazı belirtin.
 
-İnternet Erişimi Gerekmez
-PurrPair tamamen çevrimdışı (offline) çalışacak şekilde tasarlanmıştır. Uygulamanın çalışması için internet bağlantısı gerekmez ve uygulama harici sunuculara herhangi bir ağ isteği göndermez.
+## Bu politikadaki değişiklikler
 
-Kullanılan İzinler
-PurrPair tarafından kullanılan tek izin şudur:
+Oyunun topladığı veriler değişirse, yeni sürüm yayınlanmadan önce bu belge ve tarihi güncellenir.
 
-Titreşim (Vibration) (isteğe bağlı) - Oynanış sırasında dokunsal geri bildirim için kullanılır. Bu özellik ayarlardan kapatılabilir.
+## İletişim
 
-Çocukların Gizliliği
-PurrPair her yaştan kullanıcı için uygundur. Herhangi bir kişisel bilgi toplamadığımız için, bilerek veya isteyerek 13 yaşın (veya herhangi bir yaşın) altındaki çocuklardan veri toplamıyoruz.
-
-Bu Gizlilik Politikasındaki Değişiklikler
-Veri toplamadığımız için bu politikanın önemli değişiklikler gerektirmesi pek olası değildir. Ancak, bu politikayı güncellersek, bu belgenin en üstündeki tarihi güncelleyerek kullanıcıları bilgilendireceğiz.
-
-Bize Ulaşın
-Bu Gizlilik Politikası veya PurrPair hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin:
-
-E-posta: akinalpfdn@gmail.com
-
-Web Sitesi: www.akinalpfdn.com
+- **E-posta:** akinalpfdn@gmail.com
+- **Web Sitesi:** www.akinalpfdn.com
