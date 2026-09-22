@@ -1,10 +1,10 @@
-# Gizlilik Politikası - Beam of Lights
+# Gizlilik Politikası - Beam of Light
 
 **Son Güncelleme:** 22 Eylül 2026
 
 ## Özet
 
-Beam of Lights'ta hesap yoktur; adınız, e-postanız veya telefon numaranız hiçbir zaman istenmez. Reklam, reklam SDK'sı ve uygulama içi satın alma yoktur. Seviyeleri dengeleyebilmek için bölümlerin nasıl oynandığına dair anonim istatistikler toplarız; sizi başka uygulama veya sitelerde takip etmeyiz.
+Beam of Light'ta hesap yoktur; adınız, e-postanız veya telefon numaranız hiçbir zaman istenmez. Reklam, reklam SDK'sı ve uygulama içi satın alma yoktur. Seviyeleri dengeleyebilmek için bölümlerin nasıl oynandığına dair anonim istatistikler toplarız; sizi başka uygulama veya sitelerde takip etmeyiz.
 
 ## Topladığımız veriler
 
@@ -26,7 +26,7 @@ Her deneme ayrıca rastgele üretilmiş bir deneme kimliği taşır. Bu kimlik y
 
 ## Toplamadığımız veriler
 
-Adınızı, e-posta adresinizi, telefon numaranızı, rehberinizi, fotoğraflarınızı, takviminizi, dosyalarınızı veya kesin konumunuzu toplamayız. Oyun, titreşim dışında hiçbir çalışma zamanı izni istemez.
+Adınızı, e-posta adresinizi, telefon numaranızı, rehberinizi, fotoğraflarınızı, takviminizi, dosyalarınızı veya kesin konumunuzu toplamayız. Oyun, titreşim dışında hiçbir cihaz izni istemez.
 
 Reklam kimliği kullanmayız. Android tarafında `AD_ID` izni uygulamadan açıkça kaldırılmıştır; her iki platformda da Analytics SDK'sı reklam depolaması, reklam kullanıcı verisi ve reklam kişiselleştirmesi kapalı olarak başlatılır. Toplanan hiçbir veri reklam amacıyla kullanılmaz; veri simsarlarına veya reklam ağlarına aktarılmaz.
 

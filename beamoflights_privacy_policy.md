@@ -1,10 +1,10 @@
-# Privacy Policy - Beam of Lights
+# Privacy Policy - Beam of Light
 
 **Last Updated:** September 22, 2026
 
 ## Summary
 
-Beam of Lights has no accounts and never asks for your name, e-mail or phone number. There are no ads, no advertising SDKs and no in-app purchases. We collect anonymous statistics about how levels are played so we can balance the game, and we never track you across other apps or websites.
+Beam of Light has no accounts and never asks for your name, e-mail or phone number. There are no ads, no advertising SDKs and no in-app purchases. We collect anonymous statistics about how levels are played so we can balance the game, and we never track you across other apps or websites.
 
 ## What we collect
 
@@ -26,7 +26,7 @@ Each attempt also carries a randomly generated attempt identifier. It exists so 
 
 ## What we do not collect
 
-We do not collect your name, e-mail address, phone number, contacts, photos, calendar, files or precise location. The game asks for no runtime permissions other than vibration.
+We do not collect your name, e-mail address, phone number, contacts, photos, calendar, files or precise location. The game requests no device permissions other than vibration.
 
 We do not use an advertising identifier. On Android the `AD_ID` permission is explicitly removed from the app, and on both platforms the Analytics SDK is started with ad storage, ad user data and ad personalisation all switched off. Nothing the game collects is used for advertising, and no data broker or advertising network receives it.
 
