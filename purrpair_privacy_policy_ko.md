@@ -55,4 +55,4 @@ GDPR이 적용되는 지역에서 법적 근거는 게임 개선에 대한 정�
 ## 문의
 
 - **이메일:** akinalpfdn@gmail.com
-- **웹사이트:** www.akinalpfdn.com
+- **웹사이트:** https://akinalpfdn.com

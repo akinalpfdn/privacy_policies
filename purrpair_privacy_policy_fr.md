@@ -55,4 +55,4 @@ Si ce que le jeu collecte change, ce document et sa date seront mis à jour avan
 ## Contact
 
 - **E-mail :** akinalpfdn@gmail.com
-- **Site web :** www.akinalpfdn.com
+- **Site web :** https://akinalpfdn.com

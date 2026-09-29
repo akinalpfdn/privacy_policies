@@ -55,4 +55,4 @@ GDPR が適用される場合、法的根拠はゲーム改善に関する正当
 ## お問い合わせ
 
 - **メール:** akinalpfdn@gmail.com
-- **ウェブサイト:** www.akinalpfdn.com
+- **ウェブサイト:** https://akinalpfdn.com

@@ -55,4 +55,4 @@ Jeśli zmieni się zakres zbieranych danych, ten dokument i jego data zostaną z
 ## Kontakt
 
 - **E-mail:** akinalpfdn@gmail.com
-- **Strona:** www.akinalpfdn.com
+- **Strona:** https://akinalpfdn.com

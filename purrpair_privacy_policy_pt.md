@@ -55,4 +55,4 @@ Se mudar o que o jogo coleta, este documento e sua data serão atualizados antes
 ## Contato
 
 - **E-mail:** akinalpfdn@gmail.com
-- **Site:** www.akinalpfdn.com
+- **Site:** https://akinalpfdn.com

@@ -55,4 +55,4 @@ Du kannst die gesamte Datenerhebung stoppen, indem du die App löschst. Für Fra
 ## Kontakt
 
 - **E-Mail:** akinalpfdn@gmail.com
-- **Website:** www.akinalpfdn.com
+- **Website:** https://akinalpfdn.com

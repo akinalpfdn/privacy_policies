@@ -68,7 +68,7 @@ Veri toplamadığımız için bu politikanın önemli değişiklikler gerektirme
 Bu Gizlilik Politikası veya Cebrunner hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin:
 
 - **E-posta:** akinalpfdn@gmail.com
-- **Web Sitesi:** www.akinalpfdn.com
+- **Web Sitesi:** https://akinalpfdn.com
 
 ---
 

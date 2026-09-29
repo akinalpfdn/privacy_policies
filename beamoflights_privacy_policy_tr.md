@@ -61,4 +61,4 @@ Oyunun topladığı veriler değişirse, yeni sürüm yayınlanmadan önce bu be
 ## İletişim
 
 - **E-posta:** akinalpfdn@gmail.com
-- **Web sitesi:** www.akinalpfdn.com
+- **Web sitesi:** https://akinalpfdn.com

@@ -55,4 +55,4 @@ Si cambia lo que el juego recopila, este documento y su fecha se actualizarán a
 ## Contacto
 
 - **Correo:** akinalpfdn@gmail.com
-- **Sitio web:** www.akinalpfdn.com
+- **Sitio web:** https://akinalpfdn.com

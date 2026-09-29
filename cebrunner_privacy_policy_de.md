@@ -68,7 +68,7 @@ Da wir keine Daten erheben, sind wesentliche Änderungen dieser Erklärung unwah
 Wenn Sie Fragen zu dieser Datenschutzerklärung oder zu Cebrunner haben, kontaktieren Sie uns bitte unter:
 
 - **E-Mail:** akinalpfdn@gmail.com
-- **Website:** www.akinalpfdn.com
+- **Website:** https://akinalpfdn.com
 
 ---
 

@@ -68,7 +68,7 @@ Como não coletamos dados, é improvável que esta política exija alterações 
 Se você tiver dúvidas sobre esta Política de Privacidade ou sobre o Cebrunner, entre em contato conosco:
 
 - **E-mail:** akinalpfdn@gmail.com
-- **Site:** www.akinalpfdn.com
+- **Site:** https://akinalpfdn.com
 
 ---
 

@@ -61,4 +61,4 @@ If the game changes what it collects, this document and its date will be updated
 ## Contact
 
 - **E-mail:** akinalpfdn@gmail.com
-- **Website:** www.akinalpfdn.com
+- **Website:** https://akinalpfdn.com
